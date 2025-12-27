@@ -1,0 +1,5 @@
+{
+  "name": "GlitchForge V2",
+  "description": "A high-performance shader-based web design tool for creating psychedelic glitches, animations, and typography layouts with WebGL2.",
+  "requestFramePermissions": []
+}
